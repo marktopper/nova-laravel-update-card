@@ -1,9 +1,9 @@
 <template>
-    <div class="px-3 mb-6 w-full">
+    <div class="w-full">
         <div class="flex justify-center items-centers">
-            <div class="w-full max-w-xl">
+            <div class="w-full">
                 <card class="flex flex-col items-center justify-center laravel-bg" style="min-height: 118px;">
-                    <div class="px-3 py-3 w-full">
+                    <div class="px-3 py-3 w-full max-w-xl">
 
                         <div style="padding-left: 200px">
                             <div v-if="currentVersion">
